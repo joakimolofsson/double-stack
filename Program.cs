@@ -6,7 +6,6 @@ namespace DoubleStack
     {
         static void Main(string[] args)
         {
-			//Original Code
 			DoubleStack stack = new DoubleStack();
 			while (true)
 			{
